@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FirstAprochModelStoreContainer" CdmEntityContainer="FirstAprochEntities2">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="FirstAprochModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="EmployeeId" ColumnName="EmployeeId" />
+          <ScalarProperty Name="EmpName" ColumnName="EmpName" />
+          <ScalarProperty Name="BirthofDate" ColumnName="BirthofDate" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="City" ColumnName="City" />
+          <ScalarProperty Name="Department" ColumnName="Department" />
+          <ScalarProperty Name="JoiningDate" ColumnName="JoiningDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="FirstAprochModel.Employee">
+        <ModificationFunctionMapping>
+          <InsertFunction FunctionName="FirstAprochModel.Store.InsertEmployee">
+            <ScalarProperty Name="JoiningDate" ParameterName="joiningDate" />
+            <ScalarProperty Name="Department" ParameterName="Department" />
+            <ScalarProperty Name="City" ParameterName="City" />
+            <ScalarProperty Name="Address" ParameterName="Address" />
+            <ScalarProperty Name="Phone" ParameterName="Phone" />
+            <ScalarProperty Name="Email" ParameterName="Email" />
+            <ScalarProperty Name="Gender" ParameterName="Gender" />
+            <ScalarProperty Name="BirthofDate" ParameterName="BirthofDate" />
+            <ScalarProperty Name="EmpName" ParameterName="EmpName" />
+          </InsertFunction>
+          <UpdateFunction FunctionName="FirstAprochModel.Store.UpdateEmployee">
+            <ScalarProperty Name="JoiningDate" ParameterName="joiningDate" Version="Current" />
+            <ScalarProperty Name="Department" ParameterName="Department" Version="Current" />
+            <ScalarProperty Name="City" ParameterName="City" Version="Current" />
+            <ScalarProperty Name="Address" ParameterName="Address" Version="Current" />
+            <ScalarProperty Name="Phone" ParameterName="Phone" Version="Current" />
+            <ScalarProperty Name="Email" ParameterName="Email" Version="Current" />
+            <ScalarProperty Name="Gender" ParameterName="Gender" Version="Current" />
+            <ScalarProperty Name="BirthofDate" ParameterName="BirthofDate" Version="Current" />
+            <ScalarProperty Name="EmpName" ParameterName="EmpName" Version="Current" />
+            <ScalarProperty Name="EmployeeId" ParameterName="EmployeeId" Version="Current" />
+          </UpdateFunction>
+          <DeleteFunction FunctionName="FirstAprochModel.Store.DeleteEmployee">
+            <ScalarProperty Name="EmployeeId" ParameterName="EmployeeId" />
+          </DeleteFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="DeleteEmployee" FunctionName="FirstAprochModel.Store.DeleteEmployee" />
+    <FunctionImportMapping FunctionImportName="GetAllEmployee" FunctionName="FirstAprochModel.Store.GetAllEmployee" />
+    <FunctionImportMapping FunctionImportName="InsertEmployee" FunctionName="FirstAprochModel.Store.InsertEmployee" />
+    <FunctionImportMapping FunctionImportName="UpdateEmployee" FunctionName="FirstAprochModel.Store.UpdateEmployee" />
+  </EntityContainerMapping>
+</Mapping>

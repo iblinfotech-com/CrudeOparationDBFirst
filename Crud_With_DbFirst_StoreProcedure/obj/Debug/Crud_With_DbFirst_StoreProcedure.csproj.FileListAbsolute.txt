@@ -1,0 +1,118 @@
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Crud_With_DbFirst_StoreProcedure.dll.config
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Crud_With_DbFirst_StoreProcedure.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Crud_With_DbFirst_StoreProcedure.pdb
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csc.exe
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csc.exe.config
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csc.rsp
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csi.exe
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csi.rsp
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.AppContext.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.Collections.Immutable.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.IO.FileSystem.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.Reflection.Metadata.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\vbc.exe
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\vbc.exe.config
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\vbc.rsp
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\VBCSCompiler.exe
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\roslyn\VBCSCompiler.exe.config
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Antlr3.Runtime.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\EntityFramework.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\EntityFramework.SqlServer.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Microsoft.Web.Infrastructure.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Newtonsoft.Json.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Helpers.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Mvc.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Optimization.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Razor.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.Deployment.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.Razor.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\WebGrease.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\EntityFramework.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\EntityFramework.SqlServer.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Helpers.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Mvc.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Optimization.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Razor.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.Deployment.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.Razor.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Newtonsoft.Json.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Antlr3.Runtime.pdb
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\obj\Debug\Crud_With_DbFirst_StoreProcedure.csproj.CopyComplete
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\obj\Debug\Crud_With_DbFirst_StoreProcedure.dll
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\obj\Debug\Crud_With_DbFirst_StoreProcedure.pdb
+D:\IBL\Crud_With_DbFirst_StoreProcedure\Crud_With_DbFirst_StoreProcedure\obj\Debug\Crud_With_DbFirst_StoreProcedure.csprojAssemblyReference.cache
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Crud_With_DbFirst_StoreProcedure.dll.config
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Crud_With_DbFirst_StoreProcedure.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Crud_With_DbFirst_StoreProcedure.pdb
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csc.exe
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csc.exe.config
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csc.rsp
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csi.exe
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\csi.rsp
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.AppContext.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.IO.FileSystem.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\vbc.exe
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\vbc.exe.config
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\vbc.rsp
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\VBCSCompiler.exe
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Antlr3.Runtime.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\EntityFramework.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\EntityFramework.SqlServer.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Newtonsoft.Json.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Helpers.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Mvc.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Optimization.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Razor.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.Deployment.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.Razor.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\WebGrease.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\EntityFramework.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\EntityFramework.SqlServer.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Helpers.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Mvc.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Optimization.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.Razor.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.Deployment.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\System.Web.WebPages.Razor.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Newtonsoft.Json.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Antlr3.Runtime.pdb
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\obj\Debug\Crud_With_DbFirst_StoreProcedure.csprojAssemblyReference.cache
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\obj\Debug\Crud_With_DbFirst_StoreProcedure.csproj.CopyComplete
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\obj\Debug\Crud_With_DbFirst_StoreProcedure.dll
+E:\GitHubDemo\Crud With firstdb and SP\CrudeOparationDBFirst\Crud_With_DbFirst_StoreProcedure\obj\Debug\Crud_With_DbFirst_StoreProcedure.pdb
